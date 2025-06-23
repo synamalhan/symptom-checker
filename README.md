@@ -40,7 +40,7 @@ This is a Streamlit web app that uses a machine learning model to predict possib
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/symptom-checker.git
+    git clone https://github.com/synamalhan/symptom-checker.git
     cd symptom-checker
     ```
 
