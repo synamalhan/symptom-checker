@@ -63,14 +63,6 @@ This is a Streamlit web app that uses a machine learning model to predict possib
 
 ---
 
-## 🙋‍♀️ Author
-
-**Syna Malhan**  
-Computer Science @ Arizona State University  
-[LinkedIn](#) · [GitHub](#)
-
----
-
 ## 📄 License
 
 This project is open-source and free to use under the MIT License.
