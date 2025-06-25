@@ -111,12 +111,6 @@ Ensure Ollama is available at `http://localhost:11434`.
 
 ---
 
-## 📸 Demo
-
-> Coming soon – [watch the demo here](#)
-
----
-
 ## 📄 License
 
 MIT © 2025 
